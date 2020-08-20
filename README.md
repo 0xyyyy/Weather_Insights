@@ -1,4 +1,4 @@
-# API_Challenge
+# Weather Insights
 
 **Purpose**
 Harness the power of API requests and JSON traversal to look at climate trends based on latitude and longitude of randomly generated cities. 
